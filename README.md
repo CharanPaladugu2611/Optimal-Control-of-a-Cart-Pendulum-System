@@ -3,9 +3,7 @@ This project models and stabilizes a cart-pendulum system where a cart supports 
 
 All simulations and designs are implemented in MATLAB using both symbolic and numerical workflows.
 
-## .
-
-🧠 Core Concepts
+## 🧠 Core Concepts
 * State-space modeling of 6-state system (position, velocities, and two pendulum angles)
 
 * Linear Quadratic Regulator (LQR) control design for optimal stabilization
